@@ -14,3 +14,11 @@ That’s when the idea struck me. I decided to use one of the simplest and most 
 The result is a tool that combines the best of both worlds: the flexibility and simplicity of Notepad, with the added functionality of a basic calculator. I can now type out equations in full, see the entire context of what I’m calculating, and get instant results simply by saving the file, without having to switch between programs or strain my eyes trying to fit everything into a tiny calculator window.
 
 This project not only solved a practical problem but also provided a perfect opportunity to apply my reverse engineering skills in a fun and useful way. By using API Hooking, specifically during the file-saving process, I was able to extend the functionality of a simple program like Notepad, demonstrating how powerful and versatile reverse engineering can be when applied creatively.
+
+# How to use
+when you save file it will compute and show the result
+## supported functions
+acos, acosh, asin, asinh, atan, atan2, atanh, cos, cosh, cot, csc, sec, sin, sinc, sinh, tan, tanh, deg2rad, rad2deg, deg2grad, grad2deg, abs, avg, ceil, clamp, erf, erfc, exp, expm1, floor, frac, hypot, iclamp, inrange, log, log10, log1p, log2, logn, max, min, mod, mul, ncdf, pow, root, round, roundn, sgn, sqrt, sum, swap, trunc, equal, not_equal
+
+## you can make variables also!
+![use](https://github.com/user-attachments/assets/90e66865-7ff0-416b-a1b2-bdcd54df2606)
